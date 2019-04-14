@@ -1,6 +1,6 @@
 API Reference
 =============
-This document is for developers of recommonmark, it contans the API functions
+This document is for developers of recommonmark, it contains the API functions.
 
 
 Parser Component
